@@ -4,7 +4,8 @@ import java.awt.*;
 
 public class GraphicsLab04_Matthew_Pearce extends Applet {
 	//testing github
-	//testing sync speeds
+	//testing sync speeds 
+	//testing agaain
 	public void paint(Graphics g)
 	{
 	
